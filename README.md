@@ -19,7 +19,9 @@ Requirements:
 - bootstrap v3
 
 Running the app locally, execute the following commands:
+```
 git clone https://github.com/elefantino/ReactNumberGame.git
 cd ReactNumberGame
 npm install
 npm start
+```
