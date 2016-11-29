@@ -1,0 +1,1 @@
+This is a simple number game app built with React
