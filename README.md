@@ -1,16 +1,16 @@
-This is a simple number game app built with React
+This is a simple number game app using React.
 
-It uses ES6 and Bootstrap. It is implemented as a study project during the course 
+It uses ES6 and Bootstrap. It has been implemented as a study project during the course 
 https://app.pluralsight.com/library/courses/react-js-getting-started in order to learn 
 how to get started with React and ES6. You can use the code to familiarize yourself 
-quickly with building apps with React.
+quickly with the basics of building apps with React.
 
-The game layout contains a few frames where every frame is a separate React component. 
-The goal of the game is to select all the available numbers in the number frame. A player 
-is to count the stars in the left frame and select the numbers from the number frame so 
-that their sum is equal to the number of stars. If there are no numbers that can be 
-selected and summed to become equal to the number of shown stars, the refresh button can 
-be used up to 5 times to generate a new number of stars.   
+The game layout contains a few frames, which of them is a separate React component. 
+The goal of the game is to select all available numbers in the number frame. A player 
+is to count the stars in the left frame and select numbers from the number frame so 
+that the sum of selected numbers is equal to the number of stars shown. If there are no 
+numbers that can be selected and summed to become equal to the number of the stars, the 
+refresh button can be used up to 5 times to generate stars.   
 
 Requirements:
 - git
