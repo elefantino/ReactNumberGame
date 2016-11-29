@@ -14,12 +14,12 @@ refresh button can be used up to 5 times to generate stars.
 
 Requirements:
 - git
-- Node v6
+- node.js v6
 - npm v3
 - bootstrap v3
 
 Running the app locally, execute the following commands:
-	git clone https://github.com/elefantino/ReactNumberGame.git
-	cd ReactNumberGame
-	npm install
-	npm start
+git clone https://github.com/elefantino/ReactNumberGame.git
+cd ReactNumberGame
+npm install
+npm start
